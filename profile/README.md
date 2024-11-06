@@ -1,4 +1,4 @@
-# ⬡ Nexus Data Labs
+# ⬣ Nexus Data Labs
 
 Helping people **coordinate** through **data**.
 
